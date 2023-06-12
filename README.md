@@ -25,9 +25,9 @@ If you want to run bounty-targets yourself you can follow these steps:
     - `SENTRY_DSN`: (Optional) [Sentry](https://sentry.io/) API key for exception tracking.
     - `SSH_PRIV_KEY`: An SSH private key that is authorized to write to the github project you want to push data to.
     - `SSH_PUB_KEY`: The public key corresponding to `SSH_PRIV_KEY`.
-    - `GIT_HOST`: The github project to write to. For this project it's `git@github.com:arkadiyt/bounty-targets-data.git`.
+    - `GIT_HOST`: The github project to write to. For this project it's `git@github.com:tucommenceapousser/bounty-targets-data.git`.
 1. Execute `bin/bounty-targets`
 
 ### Getting in touch
 
-Feel free to contact me on twitter: https://twitter.com/arkadiyt
+Feel free to contact me on twitter: https://twitter.com/tucommenceapousser
